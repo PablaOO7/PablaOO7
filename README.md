@@ -1,7 +1,8 @@
 # pablomics
 
 # 💫 About Me:
-I'm currently working on Spotfire dashboards, R shiny, R, python, Dash, Flask, Generative AI Chats.<br>I have interest in teaching.
+<h1 align="center">Hi 👋, I'm Jaspreet</h1>
+I'm currently working on Spotfire dashboards, R shiny, R, python, Dash, Flask, Generative AI Chatbots.<br>I have interest in teaching.
 
 
 ## 🌐 Socials:
