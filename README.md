@@ -1,6 +1,4 @@
 # pablomics
-![MasterHead]([https://tenor.com/ogJn.gif](https://media.tenor.com/UYnYsqLFAfQAAAAC/rango-animated.gif))
-
 
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Jaspreet</h1>
