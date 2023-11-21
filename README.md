@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Jaspreet</h1>
 I'm currently working on Spotfire dashboards, R shiny, R, python, Dash, Flask, Generative AI Chatbots.<br>I have interest in teaching.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jaspreet) 
 
